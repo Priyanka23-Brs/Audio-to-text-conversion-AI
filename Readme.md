@@ -9,4 +9,4 @@
 ##### Purpose:
     Convert any speech audio file to text format
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/openai-apps/audio-to-text).
+#### Check out the live app [here](https://priyanka23-brs.github.io/Audio-to-text-conversion-AI/).
